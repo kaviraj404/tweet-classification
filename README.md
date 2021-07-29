@@ -1,10 +1,11 @@
 # Overview
 
-This project is my first NLP project in Natural Language Processing. In this project I've vectorized the tweets using TD-IDK and Counter-Based Vectorizers, and used Multinomial Naive Bayes and Linear SVC models as classifiers.
+This project is my first NLP classification project. In this project I've vectorized the tweets using TD-IDK and Counter-Based Vectorizers, and used Multinomial Naive Bayes and Linear SVC models as classifiers.
 The objective is to classify whether a tweet is from Donald Trump or Justin Trudeau!
 
 # Libraries
 pandas
+</ul>
 sklearn (various functions including models, NLP tokenization and evaluation)
 
 
